@@ -1,0 +1,12 @@
+C:\Users\bibibe\source\repos\FigureLibrary\FigureLibrary\bin\Debug\net5.0\FigureLibrary.deps.json
+C:\Users\bibibe\source\repos\FigureLibrary\FigureLibrary\bin\Debug\net5.0\FigureLibrary.dll
+C:\Users\bibibe\source\repos\FigureLibrary\FigureLibrary\bin\Debug\net5.0\FigureLibrary.pdb
+C:\Users\bibibe\source\repos\FigureLibrary\FigureLibrary\obj\Debug\net5.0\FigureLibrary.csproj.AssemblyReference.cache
+C:\Users\bibibe\source\repos\FigureLibrary\FigureLibrary\obj\Debug\net5.0\FigureLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bibibe\source\repos\FigureLibrary\FigureLibrary\obj\Debug\net5.0\FigureLibrary.AssemblyInfoInputs.cache
+C:\Users\bibibe\source\repos\FigureLibrary\FigureLibrary\obj\Debug\net5.0\FigureLibrary.AssemblyInfo.cs
+C:\Users\bibibe\source\repos\FigureLibrary\FigureLibrary\obj\Debug\net5.0\FigureLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bibibe\source\repos\FigureLibrary\FigureLibrary\obj\Debug\net5.0\FigureLibrary.dll
+C:\Users\bibibe\source\repos\FigureLibrary\FigureLibrary\obj\Debug\net5.0\refint\FigureLibrary.dll
+C:\Users\bibibe\source\repos\FigureLibrary\FigureLibrary\obj\Debug\net5.0\FigureLibrary.pdb
+C:\Users\bibibe\source\repos\FigureLibrary\FigureLibrary\obj\Debug\net5.0\ref\FigureLibrary.dll
