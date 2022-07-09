@@ -2,7 +2,7 @@
 
 namespace FigureLibrary.Figures2D
 {
-    public class Triangle
+    public class Triangle : IFigure2D
     {
         private readonly float _sideA;
         private readonly float _sideB;
@@ -32,7 +32,7 @@ namespace FigureLibrary.Figures2D
             return false;
         }
 
-        private static double HeronArea(float sideA, float sideB, float sideC)
+        private double HeronArea(float sideA, float sideB, float sideC)
         {
             float halfPerimeter = (sideA + sideB + sideC) / 2;
             double area = Math.Sqrt(halfPerimeter * (halfPerimeter - sideA) * (halfPerimeter - sideB) * (halfPerimeter - sideC));

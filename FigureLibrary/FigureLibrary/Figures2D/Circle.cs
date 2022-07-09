@@ -2,7 +2,7 @@
 
 namespace FigureLibrary.Figures2D
 {
-    public class Circle
+    public class Circle : IFigure2D
     {
         private readonly float _radius;
 
